@@ -4,11 +4,6 @@
 
 ​	修复了一些因为版本原因导致的BUG
 
-- 启动项目前需要执行命令
-
-```nginx
-ohpm install @ohos/axios
-```
 
 - 后台资源
 
